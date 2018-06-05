@@ -17,7 +17,7 @@ namespace: io.cloudslang.demo
 operation:
   name: uuid
 
-
+#fck!!!!!
 
   python_action:
     script: |
